@@ -3,6 +3,43 @@
 <h1 width="100">Hey There! I'm <a href="https://www.linkedin.com/in/santosh-kumar-perumal/">Santosh Kumar Perumal</a> :sunglasses: (The Learner 📖 )</h1> 
 
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]([https://www.linkedin.com/in/ansh-sarkar/](https://www.linkedin.com/in/santosh-kumar-perumal/))  &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/santosh-kumar-perumal/)  &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](https://github.com/Santosh-Kumar-Perumal)  &nbsp;
 <a href="mailto:santosh.personalid@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+## Me in a nutshell
+<img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" alt="side Image" align="right" width="auto" height="100" />
+<strong>Santosh</strong> :raising_hand: a.k.a <strong>The Boulder</strong>, who has a Master's degree in Software Engineering from Birla Institute of Technology, is a senior cloud consultant operating from London, UK with a strong background in Microservices, Open Source tools, and Application Modernization, his primary goal is to assist businesses in speeding up their innovation by assisting them in implementing the integration of cloud and open-source technologies. In addition, he is an eager learner, a public speaker,Kubernetes enthusiast and a community builder.
+
+## Who am I :point_down:?
+```python
+ from Santosh_Kumar import personal_details
+ # from Santosh_Kumar import personal_ambitions
+ 
+ class WhoAmI:
+ 	name = 'Santosh Kumar Perumal'
+	current_education = "Masters in Software Engineering"
+	hobbies = [
+				'Playing with my kid',
+				'Learning New Technologies or Frameworks',
+        			'Making friends ...'
+			]
+			
+	# city name ...
+	def getCity():
+		retrun LondonUnitedKingdom()
+		
+	# return public ambitions ...
+	def Ambitions():
+		Financial_Freedom()
+		Helping_People()
+		Be_The_Best()
+	
+```
+
+<br/>
+<div align="center">
+	<a href="https://github.com/Santosh-Kumar-Perumal">
+	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Santosh-Kumar-Perumal" />
+	</a>
+</div>
