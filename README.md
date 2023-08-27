@@ -43,7 +43,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh-Kumar-Perumal&theme=dark" alt="santosh" /></p>
 </div>
 
-<div align="center">
   <a href="https://github.com/Santosh-Kumar-Perumal">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Santosh-Kumar-Perumal" />
   </a>
