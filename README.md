@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="header-image" width="100%">
 
-<h1 width="100">Hey There! I'm <a href="https://www.linkedin.com/in/santosh-kumar-perumal/">Santosh Kumar Perumal</a> :sunglasses: (The Learner 📖 )</h1> 
+<h1 width="100">Hey There! I'm <a href="https://www.linkedin.com/in/santosh-kumar-perumal/">Santosh Kumar Perumal</a> :sunglasses: ( The Learner 📖 )</h1> 
 <img src="https://komarev.com/ghpvc/?username=Santosh-Kumar-Perumal&label=Profile%20views&color=FF8C00&style=for-the-badge" alt="Santosh-Kumar-Perumal" />
 
 
@@ -52,5 +52,21 @@
   </a>
   <a href="https://cloud.google.com/gcp" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40" />
+  </a>
+  <a href="https://helm.sh/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" />
+  </a>
+  <a href="https://www.linuxfoundation.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" />
+  </a>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" />
   </a>
 </p>
