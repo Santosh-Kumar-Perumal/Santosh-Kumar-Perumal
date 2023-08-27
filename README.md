@@ -80,6 +80,7 @@
 <h2> Certifications <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
 </h2>
 <p align="left">
-  <a href="https://cloud.google.com/gcp" target="_blank">
-    <img src="https://drive.google.com/file/d/11nRD2cYIrHNambQ8ikWyrP5rVlaCefS1/view?usp=drive_link" alt="Google" width="40" height="40" />
-  </a>
+<ul>
+<li>Professional Cloud DevOps Engineer</li>
+<li>Associate Cloud Engineer</li>
+</ul>
