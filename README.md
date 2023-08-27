@@ -39,7 +39,6 @@
 ```
 
 <br />
-<div align="center">
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh-Kumar-Perumal&theme=dark" alt="santosh" /></p>
 </div>
@@ -74,4 +73,7 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" />
   </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />
+  </a> 
 </p>
