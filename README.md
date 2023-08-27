@@ -76,3 +76,5 @@
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />
   </a> 
 </p>
+
+![Google Cloud Professional Cloud Architect](https://www.bing.com/images/search?view=detailV2&ccid=pjmEYyOq&id=944EB461703EE7588442B855FA0F736DCEE20547&thid=OIP.pjmEYyOqkEJqu9NtnEiZMgHaHa&mediaurl=https%3A%2F%2Fshuvankar.com%2Fwp-content%2Fuploads%2F2022%2F09%2FGCP-ACE_Logo.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.a639846323aa90426abbd36d9c489932%3Frik%3DRwXizm1zD%252fpVuA%26pid%3DImgRaw%26r%3D0&exph=520&expw=520&q=google+cloud+certification+badges&simid=608017552639146131&form=IRPRST&ck=EACBE11FE7191F58BC4B8EFC475A6E76&selectedindex=0&ajaxhist=0&ajaxserp=0&vt=2&sim=11&iss=VSI)
