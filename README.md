@@ -56,10 +56,6 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh-kumar-perumal&show_icons=true&locale=en&layout=compact" alt="santosh-kumar-perumal" /></p>
 
-<img src="https://raw.githubusercontent.com/santosh-kumar-perumal/santosh-kumar-perumal/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-kumar-perumal&show_icons=true&locale=en" alt="santosh-kumar-perumal" /></p>
 
 
