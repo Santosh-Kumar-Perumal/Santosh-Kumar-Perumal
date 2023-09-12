@@ -50,7 +50,7 @@
 <p align="left">
 
 <a href="[https://cloud.google.com](https://cloud.google.com/)" target="_blank" rel="noreferrer">
-<img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="80" height="80"/>
+<img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="40" height="40"/>
 </a>
 <!-- Add more cloud-related tools here -->
 </p>
