@@ -5,11 +5,20 @@
 
 <!-- Social Links Section -->
 <div align="center">
-  <a href="https://dev.to/@santoshkumarperumal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@santoshkumarperumal" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/santosh-kumar-perumal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-kumar-perumal" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@santoshkumarp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@santoshkumarp" height="30" width="40" /></a>
-  <a href="https://medium.com/@santosh.personalid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@santosh.personalid" height="30" width="40" /></a>
-</div><br>
+  <a href="https://dev.to/@santoshkumarperumal" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@santoshkumarperumal" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/santosh-kumar-perumal" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-kumar-perumal" height="30" width="40" />
+  </a>
+  <a href="https://hashnode.com/@santoshkumarp" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@santoshkumarp" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@santosh.personalid" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@santosh.personalid" height="30" width="40" />
+  </a>
+</div>
+<br>
 
 <!-- Profile Views Section -->
 <div align="center">
@@ -18,41 +27,42 @@
 
 <!-- Introduction Section -->
 <h1 align="center">Hey there 👋,</h1>
-<h3 align="center">I am Santosh 🙋, a Master's graduate in Software Engineering from Birla Institute of Technology. I'm a senior cloud consultant based in London, UK, with a strong background in Microservices, Open Source tools, and Application Modernization. My primary goal is to accelerate innovation for businesses by integrating cloud and open-source technologies. I'm also an avid learner, public speaker, Kubernetes enthusiast, and community builder.</h3>
+<h3 align="center">
+  I carry over a decade of experience in the tech industry, and I am a seasoned Cloud and DevOps Consultant based in London, UK. 
+  I hold a Master's degree in Software Engineering and specialize in Google Cloud, open-source tools adoption, and application modernization. 
+  My primary goal is to assist businesses in accelerating their cloud migration journeys, particularly on Google Cloud, which is my area of expertise.
+</h3>
 
-<!-- Key Information Section -->
-- 🔭 I’m currently working on **Google Cloud Platform**
-- 🌱 I’m currently learning **Open Telemetry, Data Engineering**
-- 👯 I’m looking to collaborate on **Open-Source Projects**
-- 📫 How to reach me: **santosh.personalid@gmail.com**
-
-<!-- Blogs Section -->
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<!-- Technology Section -->
+<h2 align="center">Technologies</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white" alt="JFrog" />
+  <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white" alt="New Relic" />
+  <img src="https://img.shields.io/badge/Shell%20Script-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="Shell Scripting" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<!-- Cloud Section -->
-<h3 align="left">Cloud</h3>
-<p align="left">
-  <a href="[https://cloud.google.com](https://cloud.google.com/)" target="_blank" rel="noreferrer">
-    <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="40" height="40"/>
+<!-- Community Contribution and My Passion -->
+- **Google Cloud Ambassador** - Helped the women in tech community by mentoring and providing career guidance on Google Cloud certification roadmap and career opportunities.
+- **Google Cloud Innovator** - Part of a global network of roughly 600 external professionals who are technical experts in Google Cloud products and services.
+- **STEM Ambassador** - Volunteered in a UK Government-backed program, contributing to the STEM community by linking STEM subjects to the real world of work.
+- **FinOps Board Member** - Provide advisory guidance to the community to help optimize cloud costs.
+- **Calico Big Cat** - Assist the community in understanding the importance of adopting solutions for container networking and security.
+- **Apache Airflow Champion** - Dedicated time and expertise to increasing understanding and awareness of Apache Airflow within the open-source community.
+- **Open Source Contributor** - Participated in the Linux Foundation’s open-source contribution program, identifying issues and contributing to code in multiple projects, including a notable bug fix in the Google Cloud OpenTelemetry repo.
+- **Public Speaker** - Featured speaker at various forums such as Google DevFest London, Kubernetes Community Days, and more.
+
+<!-- Certifications Section -->
+<h2 align="center">Certifications</h2>
+<div align="center">
+  <a href="https://www.credly.com/users/santosh-kumar-perumal/badges" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Credly%20Badges-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Credly Badges" />
   </a>
-  <!-- Add more cloud-related tools here -->
-</p>
-
-<!-- GitHub Stats Section -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh-kumar-perumal&show_icons=true&locale=en&layout=compact" alt="santosh-kumar-perumal" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-kumar-perumal&show_icons=true&locale=en" alt="santosh-kumar-perumal" /></p>
+</div>
